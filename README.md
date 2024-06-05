@@ -7,6 +7,7 @@
  * x1 capteur de mouvement IR (HC-SR501)
  * x1 bande LED (30 LED/m, 5V)
  * x1 Arduino Nano ou Arduino Pro-Mini 5V
+ * x1 alimentation de 5V (l'ampérage de l'alim va dépendre de la longueur du ruban LED et de la puissance lumineuse qui va être utilisée. Pour 4m de LED et un luminosité basse, un chargeur de téléphone suffit)
 
 ## Schéma électrique
 <p align="center"><img src="/Schematic projet.png">
