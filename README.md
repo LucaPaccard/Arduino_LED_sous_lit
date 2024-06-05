@@ -1,4 +1,6 @@
 # Projet Arduino - LED sous le lit
+Ce petit projet permet de contrôler un ruban LED installé sous un lit : lorsque la luminosité est suffisament faible (i.e. la nuit, mesuré via une photorésistance) et qu'un mouvement est détecté (via un capteur de mouvement infra-rouge), alors les LEDs s'allument pendant une certaine période.
+
  ## Matériel nécessaire
  * x2 résistance 1kΩ
  * x1 résistance 1MΩ (variable selon sensibilité du capteur de lumière souhaité)
